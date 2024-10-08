@@ -1,0 +1,51 @@
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.kanit-regular {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.content {
+    width: 80%;
+    height: 100%;
+    overflow: hidden;
+    display: block;
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-top: 2em;
+}
+
+.element {
+    width: 23vw;
+    float: left;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.element > img {
+    width: 23vw;
+    height: 23vw;
+}
+
+.element > h1 {
+    font-family: "Bebas Neue";
+    margin: 0;
+    margin-top: 0.2em;
+    color: #fff;
+    font-size: 180%;
+}
+
+.element > p {
+    color: #fff;
+    font-family: "Kanit", sans-serif;
+    margin: 0;
+    padding: none;
+    margin-top: -0.5em;
+    margin-bottom: -1.5em;
+}
